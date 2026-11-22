@@ -1,0 +1,12 @@
+{
+  "name": "gflow",
+  "version": "1.0.0",
+  "description": "Automated viral content pipeline for Todo Frenos using Google Flow & Meta Graph API",
+  "main": "scripts/flow_generator.js",
+  "scripts": {
+    "generate": "node scripts/flow_generator.js"
+  },
+  "keywords": ["google-flow", "instagram-reels", "meta-graph-api", "todo-frenos"],
+  "author": "Yoel Arlia",
+  "license": "MIT"
+}

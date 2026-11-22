@@ -1,0 +1,8 @@
+node_modules/
+output/
+assets/raw/
+.env
+*.mp4
+*.mp3
+*.wav
+__pycache__/
